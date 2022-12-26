@@ -1,0 +1,2 @@
+# 3D_modeling_of_human_fingers
+ This repository contains a MATLAB implementation of the modeling of thumb and index fingers. The code simulates the movement of the fingers and plots the trajectory of the links in 2D and 3D. The model takes into account the kinematic constraints of the joints and the lengths of the links. The user can specify the joint angles and the model will compute the resulting finger positions. The code includes a sample set of joint angles and plots the resulting finger movement.
